@@ -2,3 +2,4 @@
 *.dat 
 #ignore all results
 results 
+!a.dat
