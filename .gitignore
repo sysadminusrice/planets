@@ -1,0 +1,4 @@
+#ignore all data files
+*.dat 
+#ignore all results
+results 
